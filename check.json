@@ -1,0 +1,49 @@
+{
+  "notification": {
+    "id": 0,
+    "title": "这是通知测试",
+    "content": "4.8.0 测试版，测试版可能存在bug，遇到问题请反馈，",
+    "date": "2023-05-12",
+    "platform": [
+      "android",
+      "ios"
+    ],
+    "is_activity": false,
+    "activity_type": "中磅更新",
+    "activity_name": "中国色、纯色壁纸",
+    "activity_desc": "最新推出中国色、纯色、渐变色壁纸功能，以及可以自定义创建纯色渐变色，让锁屏和桌面简洁干净又美观",
+    "activity_img": "https://s2.xptou.com/2023/05/23/646c8102b9f11.png",
+    "bg_color": "#5e72e4"
+  },
+  "version": {
+    "is_activity": false,
+    "version_name": "4.8.0",
+    "version_code": 417,
+    "intro": "纯色渐变色壁纸现已推出",
+    "content": [
+      "没有躺平，整天都在想下个版本要做什么，有什么特性，给自己打工不知道累啊，看到好评能开心一周，虽然不赚钱，还是很有激情，idea很多，可惜能力配不上野心，嗯，就这样吧，新版带来了一个重要功能，比如纯色渐变色壁纸，主要更新如下：",
+      "🌟 轻磅功能：推出纯色、渐变色壁纸功能，以及可以自定义创建纯色渐变色，让锁屏和桌面简洁干净又美观。（推荐页面）",
+      "🎉 新增：集美AI新增人脸年龄变化",
+      "🔧 优化：舔狗日记、彩虹屁添加背景图和荆南俊俊体字体",
+      "🔧 优化：集美AI免费功能现在无需登录也可以使用",
+      "🔧 优化：其他优化"
+    ],
+    "vip_content": "",
+    "devices": [
+      "xiaomi",
+      "other",
+      "huawei"
+    ],
+    "detail": "https://mp.weixin.qq.com/s/j6_s6QvM0fT_NOxAXjYBfQ",
+    "platforms": [
+      "android"
+    ],
+    "ios_url": "https://apps.apple.com/cn/app/id1592148389",
+    "android_url": "http://file.market.xiaomi.com/download/AppStore/05574d540f58c4ef5a8f5a1d37ce46a9fe57e0a41/com.zhangbingdev.jimei_4.8.0.apk",
+    "activity_type": "中磅更新",
+    "activity_name": "中国色、纯色壁纸",
+    "activity_desc": "最新推出中国色、纯色、渐变色壁纸功能，以及可以自定义创建纯色渐变色，让锁屏和桌面简洁干净又美观",
+    "activity_img": "https://s2.xptou.com/2023/05/23/646c8102b9f11.png",
+    "bg_color": "#5e72e4"
+  }
+}
