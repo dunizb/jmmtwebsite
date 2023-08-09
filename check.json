@@ -1,52 +1,50 @@
 {
   "notification": {
-    "id": 0,
-    "title": "重磅更新",
-    "content": "全新的具有东方美学的中国日本传统色壁纸功能，并为每一个中国传统色添加了相关的一句古诗词，让锁屏和桌面简洁干净又美观。",
-    "date": "2023-05-31",
+    "id": 10,
+    "title": "支援灾区",
+    "content": "祖国北方洪水滔天，作为小产品也想为社会做一点贡献：为支援灾区贡献一份力量，针对灾区用户会员免费三个月，快去会员页面领取吧，如您有灾区的朋友请扩散",
+    "date": "2023-08-07",
     "platform": [
-      "android",
-      "ios"
+      "android"
     ],
-    "is_activity": false,
-    "activity_type": "新功能",
-    "activity_name": "渐变色壁纸",
-    "activity_desc": "渐变色功能，各种渐变色即取即用，也可以自己创建渐变颜色，让锁屏和桌面简洁干净又美观",
-    "activity_img": "https://s2.xptou.com/2023/05/31/6476af144b489.png",
-    "bg_color": "#DE87B0"
+    "is_activity": true,
+    "activity_type": "特别活动",
+    "activity_name": "支援灾区，你我同心",
+    "activity_desc": "祖国北方洪水滔天，作为小产品也想为社会做一点贡献：为支援灾区贡献一份力量，针对灾区用户会员免费三个月，快去会员页面领取吧",
+    "activity_img": "https://img1.imgtp.com/2023/08/07/rc7S19Bp.jpg",
+    "activity_bg_color": "#144458",
+    "activity_subtext_color": "#ffffff"
   },
   "version": {
-    "is_activity": false,
-    "version_name": "4.10.2",
-    "version_code": 426,
+    "is_activity": true,
+    "version_name": "4.11.0",
+    "version_code": 427,
+    "version_code_huawei": 427,
     "version_code_ios": 426,
-    "version_code_huawei": 426,
     "intro": "",
     "content": [
-      "好兴奋，我又有了新产品的idea，我要马上把它做出来。",
+      "祖国北方洪水滔天，作为小产品也想为社会做一点贡献：",
       "集美美图本次更新如下： ",
-      "1️⃣ 分享壁纸UI调整，二维码区域紧贴壁纸正下方，同时增加白边框",
-      "2️⃣ 中国传统色新其他分类，并新增一些灰白和黑类型传统色",
-      "3️⃣ 纯色新增西瓜红🍉"
+      "🔴 为支援灾区贡献一份力量，针对灾区用户会员免费三个月，快去会员页面领取吧，如您有灾区的朋友请扩散",
+      "🔴 修复支付成功但会员不生效的问题，如果依然出现此类问题请及时联系客服哦"
     ],
     "vip_content": "",
     "devices": [
       "other",
       "xiaomi",
-      "iphone",
       "huawei"
     ],
     "detail": "",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ],
     "ios_url": "https://apps.apple.com/cn/app/id1592148389",
     "android_url": "http://file.market.xiaomi.com/download/AppStore/02aceb0c2a4de4d429417aa1fadd74b7f54e9f302/com.zhangbingdev.jimei_4.10.2.apk",
-    "activity_type": "重磅更新",
-    "activity_name": "中国传统色纯色壁纸",
-    "activity_desc": "全新推出中国色、日本色、渐变色壁纸功能，并为每一个中国传统色添加了相关的一句古诗词，让锁屏和桌面简洁干净又美观",
-    "activity_img": "https://s2.xptou.com/2023/05/29/647462bc8388c.png",
-    "bg_color": "#5e72e4"
+    "activity_type": "特别活动",
+    "activity_name": "支援灾区，你我同心",
+    "activity_desc": "祖国北方洪水滔天，作为小产品也想为社会做一点贡献：为支援灾区贡献一份力量，针对灾区用户会员免费三个月，快去会员页面领取吧",
+    "activity_img": "https://img1.imgtp.com/2023/08/07/rc7S19Bp.jpg",
+    "activity_bg_color": "#144458",
+    "activity_subtext_color": "#ffffff"
   }
 }
