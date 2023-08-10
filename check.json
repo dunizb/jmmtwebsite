@@ -7,7 +7,7 @@
     "platform": [
       "android"
     ],
-    "is_activity": false,
+    "is_activity": true,
     "activity_type": "特别活动",
     "activity_name": "支援灾区，你我同心",
     "activity_desc": "祖国北方洪水滔天，作为小产品也想为社会做一点贡献：为支援灾区贡献一份力量，针对灾区用户会员免费三个月，快去会员页面领取吧",
@@ -16,7 +16,7 @@
     "activity_subtext_color": "#ffffff"
   },
   "version": {
-    "is_activity": true,
+    "is_activity": false,
     "version_name": "4.11.0",
     "version_code": 427,
     "version_code_huawei": 427,
