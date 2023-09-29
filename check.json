@@ -1,19 +1,18 @@
 {
   "notification": {
-    "id": 0,
-    "title": "支援灾区",
-    "content": "祖国北方洪水滔天，作为小产品也想为社会做一点贡献：为支援灾区贡献一份力量，针对灾区用户会员免费三个月，快去会员页面领取吧，如您有灾区的朋友请扩散",
-    "date": "2023-09-01",
+    "id": 1,
+    "title": "庆祝国庆，会员优惠",
+    "content": "国庆期间会员优惠活动，月会员、年会会员、永久会员分别下调至9、99、144元，另外华为手机用户请到官网网站更新最新v5.0版本",
+    "date": "2023-09-29",
     "platform": [
-      "android",
-      "ios"
+      "android"
     ],
-    "is_activity": false,
+    "is_activity": true,
     "activity_type": "特别活动",
-    "activity_name": "支援灾区，你我同心",
-    "activity_desc": "新增天津为灾区。为支援灾区贡献一份力量，针对灾区用户会员免费三个月，快去会员页面领取吧",
-    "activity_img": "https://img1.imgtp.com/2023/08/07/rc7S19Bp.jpg",
-    "activity_bg_color": "#144458",
+    "activity_name": "庆祝国庆，会员优惠",
+    "activity_desc": "国庆期间会员优惠活动，月会员、年会会员、永久会员分别下调至9、99、144元，另外华为手机用户请到官网网站更新最新v5.0版本",
+    "activity_img": "https://cloud-minapp-41285.cloud.ifanrusercontent.com/1qm7r2OKRdJdJgQe.jpg",
+    "activity_bg_color": "#a3704b",
     "activity_subtext_color": "#ffffff"
   },
   "version": {
