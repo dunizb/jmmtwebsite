@@ -17,25 +17,21 @@
   },
   "version": {
     "is_activity": true,
-    "version_name": "5.0.0",
-    "version_code": 431,
-    "version_code_huawei": 431,
+    "version_name": "5.0.1",
+    "version_code": 432,
+    "version_code_huawei": 432,
     "version_code_ios": 431,
     "intro": "",
     "content": [
-      "🔴 新增生成国庆节头像功能",
-      "🔴 APP导航改为文字形式并新增小工具导航",
-      "🔴 其他优化更新"
+      "🔴 优化使用体验"
     ],
     "vip_content": "",
     "devices": [
-      "other",
-      "iphone"
+      "other"
     ],
     "detail": "",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ],
     "ios_url": "https://apps.apple.com/cn/app/id1592148389",
     "android_url": "http://file.market.xiaomi.com/download/AppStore/059e2c3c7af17460e92b35f1c887e1e86cc5f070e/com.zhangbingdev.jimei_5.0.0.apk",
