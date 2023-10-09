@@ -1,13 +1,13 @@
 {
   "notification": {
-    "id": 1,
+    "id": 0,
     "title": "庆祝国庆，会员优惠",
     "content": "国庆期间会员优惠活动，月会员、年会会员、永久会员分别下调至9、99、144元，另外华为手机用户请到官网网站更新最新v5.0版本",
     "date": "2023-09-29",
     "platform": [
       "android"
     ],
-    "is_activity": true,
+    "is_activity": false,
     "activity_type": "特别活动",
     "activity_name": "庆祝国庆，会员优惠",
     "activity_desc": "国庆期间会员优惠活动，月会员、年会会员、永久会员分别下调至9、99、144元，另外华为手机用户请到官网网站更新最新v5.0版本",
