@@ -16,7 +16,7 @@
     "activity_subtext_color": "#ffffff"
   },
   "version": {
-    "is_activity": true,
+    "is_activity": false,
     "version_name": "5.0.1",
     "version_code": 432,
     "version_code_huawei": 432,
