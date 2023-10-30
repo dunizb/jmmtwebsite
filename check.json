@@ -4,37 +4,45 @@
     "title": "支援灾区，你我同心",
     "content": "听闻广东广西等地方发生大规模洪水，作为小产品也想为支持灾区贡献一份力量，针对灾区用户会员免费1个月（会员页面领取）",
     "date": "2023-10-22",
-    "platform": ["android"],
+    "platform": [
+      "android"
+    ],
     "is_activity": true,
     "activity_type": "特别活动",
     "activity_name": "支援灾区，你我同心",
-    "activity_desc":
-        "听闻广东广西等地方发生大规模洪水，作为小产品也想为支持灾区贡献一份力量，针对灾区用户会员免费1个月（会员页面领取）",
-    "activity_img":
-        "https://cloud-minapp-41285.cloud.ifanrusercontent.com/1quSQ5WDfAD8PCq6.jpg",
+    "activity_desc": "听闻广东广西等地方发生大规模洪水，作为小产品也想为支持灾区贡献一份力量，针对灾区用户会员免费1个月（会员页面领取）",
+    "activity_img": "https://cloud-minapp-41285.cloud.ifanrusercontent.com/1quSQ5WDfAD8PCq6.jpg",
     "activity_bg_color": "#3981b5",
     "activity_subtext_color": "#ffffff"
   },
   "version": {
     "is_activity": false,
-    "version_name": "5.0.1",
-    "version_code": 432,
-    "version_code_huawei": 432,
-    "version_code_ios": 431,
+    "version_name": "5.1.0",
+    "version_code": 433,
+    "version_code_ios": 433,
+    "version_code_huawei": 433,
     "intro": "",
     "content": [
-      "🔴 优化使用体验"
+      "本次更新如下：",
+      "1️⃣ 集美AI新增“AI生成艺术二维码功能”",
+      "2️⃣ 新增查看次数展示，并合并收藏下载次数显示为热度",
+      "3️⃣ 修复一些已知问题",
+      "4️⃣ 优化使用体验"
     ],
     "vip_content": "",
     "devices": [
-      "other"
+      "other",
+      "xiaomi",
+      "iphone",
+      "huawei"
     ],
     "detail": "",
     "platforms": [
-      "android"
+      "android",
+      "ios"
     ],
     "ios_url": "https://apps.apple.com/cn/app/id1592148389",
-    "android_url": "https://www.pgyer.com/jimei-android",
+    "android_url": "http://file.market.xiaomi.com/download/AppStore/0d14e42ba61b943999e1dce15c76197d1609e76b0/com.zhangbingdev.jimei_5.1.0.apk",
     "activity_type": "重磅更新",
     "activity_name": "生成国庆节头像",
     "activity_desc": "全新的5.0版本来了，祝大家中秋国庆快乐！新增生成国庆节头像功能，APP导航改为文字形式并新增小工具导航，其他优化更新",
