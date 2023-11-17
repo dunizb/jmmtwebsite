@@ -8,7 +8,7 @@
       "android",
       "ios"
     ],
-    "is_activity": true,
+    "is_activity": false,
     "activity_type": "特别活动",
     "activity_name": "支援灾区，你我同心",
     "activity_desc": "听闻广东广西等地方发生大规模洪水，作为小产品也想为支持灾区贡献一份力量，针对灾区用户会员免费1个月（会员页面领取）",
