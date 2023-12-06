@@ -1,8 +1,8 @@
 {
   "notification": {
-    "id": 4,
+    "id": 0,
     "title": "恶意攻击，我劝某些人善良！",
-    "content": "最近老有一些用户不知道搞什么，恶意攻击？不断的重复注销同一个账户，把数据库瞬间塞满几千条数据，而账户并没有被真实注销，下再在发现类似的我直接删除你账号！垃圾，滚！\n今天发现的恶意用户：608104939782321，email：626752480@qq.com，电话：18522907039",
+    "content": "最近老有一些用户不知道搞什么，恶意攻击？不断的重复注销同一个账户，把数据库瞬间塞满几千条数据，而账户并没有被真实注销，再发现类似的下次我会直接删号！\n今天发现的恶意用户：608104939782321，email：626752480@qq.com，电话：18522907039",
     "date": "2023-11-17",
     "platform": [
       "android",
@@ -18,24 +18,25 @@
   },
   "version": {
     "is_activity": false,
-    "version_name": "5.1.0",
-    "version_code": 433,
-    "version_code_ios": 433,
-    "version_code_huawei": 433,
+    "version_name": "5.2.1",
+    "version_code": 435,
+    "version_code_ios": 435,
+    "version_code_huawei": 435,
     "intro": "",
     "content": [
       "本次更新如下：",
-      "1️⃣ 集美AI新增“AI生成艺术二维码功能”",
-      "2️⃣ 新增查看次数展示，并合并收藏下载次数显示为热度",
-      "3️⃣ 修复一些已知问题",
-      "4️⃣ 优化使用体验"
+      "修复：会员页面灰屏问题",
+      "新增：关于页面显示APP备案号",
+      "新增：小工具页面新增经典扫雷小游戏",
+      "新增：推荐页面新增群聊天背景模块",
+      "会员：随机美女短视频移至小工具页面",
+      "会员：小工具页面新增随机播放1W+抖音高质量美女视频"
     ],
     "vip_content": "",
     "devices": [
       "other",
       "xiaomi",
-      "iphone",
-      "huawei"
+      "iphone"
     ],
     "detail": "",
     "platforms": [
@@ -43,7 +44,7 @@
       "ios"
     ],
     "ios_url": "https://apps.apple.com/cn/app/id1592148389",
-    "android_url": "http://file.market.xiaomi.com/download/AppStore/0d14e42ba61b943999e1dce15c76197d1609e76b0/com.zhangbingdev.jimei_5.1.0.apk",
+    "android_url": "http://file.market.xiaomi.com/download/AppStore/0c4a7a4ae63474f558b79d8f312285536383a460a/com.zhangbingdev.jimei_5.2.1.apk",
     "activity_type": "重磅更新",
     "activity_name": "生成国庆节头像",
     "activity_desc": "全新的5.0版本来了，祝大家中秋国庆快乐！新增生成国庆节头像功能，APP导航改为文字形式并新增小工具导航，其他优化更新",
