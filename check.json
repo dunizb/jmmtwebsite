@@ -18,19 +18,18 @@
   },
   "version": {
     "is_activity": false,
-    "version_name": "5.2.1",
-    "version_code": 435,
-    "version_code_ios": 435,
-    "version_code_huawei": 435,
+    "version_name": "5.3.0",
+    "version_code": 437,
+    "version_code_ios": 437,
+    "version_code_huawei": 437,
     "intro": "",
     "content": [
       "本次更新如下：",
-      "修复：会员页面灰屏问题",
-      "新增：关于页面显示APP备案号",
-      "新增：小工具页面新增经典扫雷小游戏",
-      "新增：推荐页面新增群聊天背景模块",
-      "会员：随机美女短视频移至小工具页面",
-      "会员：小工具页面新增随机播放1W+抖音高质量美女视频"
+      "- 小工具和原集美AI页面合并，导航新增排行榜页面",
+      "- 长按 APP 图标弹出快捷菜单",
+      "- 更换客服微信二维码，以及修复客服二维码下载失败的问题",
+      "- 复修头像接口地址",
+      "- 体验优化"
     ],
     "vip_content": "",
     "devices": [
@@ -44,7 +43,7 @@
       "ios"
     ],
     "ios_url": "https://apps.apple.com/cn/app/id1592148389",
-    "android_url": "http://file.market.xiaomi.com/download/AppStore/0c4a7a4ae63474f558b79d8f312285536383a460a/com.zhangbingdev.jimei_5.2.1.apk",
+    "android_url": "https://www.pgyer.com/jimei-android",
     "activity_type": "重磅更新",
     "activity_name": "生成国庆节头像",
     "activity_desc": "全新的5.0版本来了，祝大家中秋国庆快乐！新增生成国庆节头像功能，APP导航改为文字形式并新增小工具导航，其他优化更新",
