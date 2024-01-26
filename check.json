@@ -18,24 +18,32 @@
   },
   "version": {
     "is_activity": false,
-    "version_name": "5.3.0",
-    "version_code": 437,
-    "version_code_ios": 437,
-    "version_code_huawei": 437,
+    "version_name": "5.4.0",
+    "version_code": 438,
+    "version_code_ios": 438,
+    "version_code_huawei": 438,
     "intro": "",
     "content": [
-      "本次更新如下：",
-      "- 小工具和原集美AI页面合并，导航新增排行榜页面",
-      "- 长按 APP 图标弹出快捷菜单",
-      "- 更换客服微信二维码，以及修复客服二维码下载失败的问题",
-      "- 复修头像接口地址",
+      "小工具模块：",
+      "- 新增：电影实时票房",
+      "- 新增：烧香拜佛祈福",
+      "- 新增：随机数生成器",
+      "- 新增：多功能计算器",
+      "- 新增：跑马灯/手持弹幕",
+      "- 优化：一些细节优化\n",
+      "壁纸模块：",
+      "- 新增：新增一些群聊天背景",
+      "- 调整：中国传统色布局调整\n",
+      "其他：",
+      "- 新的启动屏幕背景图和文本",
       "- 体验优化"
     ],
     "vip_content": "",
     "devices": [
       "other",
       "xiaomi",
-      "iphone"
+      "iphone",
+      "huawei"
     ],
     "detail": "",
     "platforms": [
