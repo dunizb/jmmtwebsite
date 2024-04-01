@@ -18,40 +18,32 @@
   },
   "version": {
     "is_activity": false,
-    "version_name": "5.4.0",
-    "version_code": 438,
-    "version_code_ios": 438,
-    "version_code_huawei": 438,
+    "version_name": "5.5.0",
+    "version_code": 447,
+    "version_code_ios": 447,
+    "version_code_huawei": 447,
     "intro": "",
     "content": [
-      "小工具模块：",
-      "- 新增：电影实时票房",
-      "- 新增：烧香拜佛祈福",
-      "- 新增：随机数生成器",
-      "- 新增：多功能计算器",
-      "- 新增：跑马灯/手持弹幕",
-      "- 优化：一些细节优化\n",
-      "壁纸模块：",
-      "- 新增：新增一些群聊天背景",
-      "- 调整：中国传统色布局调整\n",
-      "其他：",
-      "- 新的启动屏幕背景图和文本",
-      "- 体验优化"
+      "华为用户请至官方网站下载更新：https://www.pgyer.com/jmmt",
+      "- 新增：推荐页面新增故宫 24 节气颜色",
+      "- 调整：小工具页面改版，带来一些新的小工具",
+      "- 修复：注销账号时注销操作没反应的问题",
+      "- 优化：部分页面 UI 和交互优化",
+      "- 移除：用户头像不再显示和设置",
+      "- 其它：关于页面显示 ICP 备案号"
     ],
     "vip_content": "",
     "devices": [
       "other",
       "xiaomi",
-      "iphone",
-      "huawei"
+      "vivo"
     ],
     "detail": "",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ],
     "ios_url": "https://apps.apple.com/cn/app/id1592148389",
-    "android_url": "http://file.market.xiaomi.com/download/AppStore/0e35de5993cf847989d402a5ea3b60d429e1bb494/com.zhangbingdev.jimei_5.4.0.apk",
+    "android_url": "http://file.market.xiaomi.com/download/AppStore/0d4dd6b1d4cba4a0a86825a4cf97eff01815322d9/com.zhangbingdev.jimei_5.5.0.apk",
     "activity_type": "重磅更新",
     "activity_name": "生成国庆节头像",
     "activity_desc": "全新的5.0版本来了，祝大家中秋国庆快乐！新增生成国庆节头像功能，APP导航改为文字形式并新增小工具导航，其他优化更新",
