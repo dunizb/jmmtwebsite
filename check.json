@@ -35,11 +35,13 @@
     "devices": [
       "other",
       "xiaomi",
-      "vivo"
+      "vivo",
+      "iphone"
     ],
     "detail": "",
     "platforms": [
-      "android"
+      "android",
+      "ios"
     ],
     "ios_url": "https://apps.apple.com/cn/app/id1592148389",
     "android_url": "http://file.market.xiaomi.com/download/AppStore/0d4dd6b1d4cba4a0a86825a4cf97eff01815322d9/com.zhangbingdev.jimei_5.5.0.apk",
